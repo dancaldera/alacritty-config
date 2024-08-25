@@ -4,7 +4,7 @@ live_config_reload = true
 # TERM = "xterm-256color"
 
 [window]
-decorations = "buttonless"
+# decorations = "buttonless"
 dynamic_padding = false
 opacity = 0.9
 
